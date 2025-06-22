@@ -20,7 +20,7 @@ I’m passionate about solving real-world challenges through **engineering, robo
 
 ### 💼 Experience & Involvement
 
-- 🌐 **STEM Intern @ EWB USA** | Working with corporate partners to develop renewable energy & clean water projects/labs to deliver to classroom audiences.
+- 🌐 **Intern @ EWB USA** | Working with corporate partners to develop renewable energy & clean water projects/labs to deliver to classroom audiences.
 - 👩‍🏫 **STEM Educator @ Boeing Academy for STEM Learning** | Teaching and mentoring students in engineering, aviation, space, technology, & mathematics.
 - 🌍 **EWB Subgroup Lead @ UMN** | Leading a subgroup focused on designing and implementing sustainable sanitation solutions for primary schools in Zomba, Malawi.  
 - 🚀 **High Power Rocketry @ UMN** | Custom designed and built high power rockets with successful launches over 3000+ ft.
