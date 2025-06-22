@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kiki 👋</h1>
+<h1 align="center">Hi there, I'm Keerthana 👋</h1>
 <p align="center">
   <em>Engineering student • Aspiring aerospace innovator • Lifelong learner</em>
 </p>
