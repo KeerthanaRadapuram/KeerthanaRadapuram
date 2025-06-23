@@ -53,7 +53,6 @@ I’m passionate about solving real-world challenges through **engineering, robo
 
 - 🌐 [Personal Website](https://keerthanaradapuram.github.io) _(coming soon!)_  
 - 💼 [LinkedIn](https://www.linkedin.com/in/keerthanaradapuram/)  
-- 📧 **Email**: keerthanaradapuram@gmail.com
 
 ---
 
